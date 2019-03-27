@@ -2,6 +2,8 @@
   
 https://reactvideos.herokuapp.com/
   
+This is a Youtube clone app built to highlight technical skills using React.js, Semantic UI, and API calls using the AXIOS npm package.
+
 ## View: React.js
 ## UI Framework: Semantic
 ## Skill Highlighted: API calls using AXIOS
