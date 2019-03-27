@@ -2,9 +2,9 @@
   
 https://reactvideos.herokuapp.com/
   
-##View: React.js
-##UI Framework: Semantic
-##Skill Highlighted: API calls using AXIOS
+## View: React.js
+## UI Framework: Semantic
+## Skill Highlighted: API calls using AXIOS
 
 ## Available Scripts
 
