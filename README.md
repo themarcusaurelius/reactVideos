@@ -1,4 +1,4 @@
-<h1>DEMO:</h1 
+<h1>DEMO:</h1>
   
 https://reactvideos.herokuapp.com/
   
@@ -7,6 +7,7 @@ This is a Youtube clone app built to highlight technical skills using React.js, 
 ## View: React.js
 ## UI Framework: Semantic
 ## Skill Highlighted: API calls using AXIOS
+
 
 ## Available Scripts
 
