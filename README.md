@@ -1,4 +1,6 @@
-<h1>DEMO:</h1 https://reactvideos.herokuapp.com/
+<h1>DEMO:</h1 
+  
+https://reactvideos.herokuapp.com/
   
 ##View: React.js
 ##UI Framework: Semantic
