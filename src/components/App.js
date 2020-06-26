@@ -9,7 +9,7 @@ class App extends React.Component {
   state = { videos: [], selectedVideo: null };
 
   componentDidMount() {
-    this.onTermSubmit('Joe Rogan')
+    this.onTermSubmit('Nasa')
   }
 
   onTermSubmit = async (term) => {
@@ -46,7 +46,6 @@ class App extends React.Component {
             </div>
           </div> 
         </div>
-        
       </div>
     );
   }
